@@ -1,0 +1,12 @@
+{
+    "@@locale": "en",
+    "appTitle": "Kaagaz",
+    "@appTitle": {
+        "description": "Application title"
+    },
+    "languageName": "English",
+    "thatsAnError": "That's an error",
+    "requestedPageNotFound": "The requested page was not found.",
+    "thatsAllWeKnow": "That's all we know.",
+    "home": "Home"
+}
